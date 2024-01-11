@@ -44,13 +44,13 @@
         },
         {
           "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
-          "NameGuid": "6c3952b0-26fd-432d-98e1-4ebf9326ff81",
-          "Name": "Responsible",
+          "NameGuid": "55fe3e1e-5e90-495e-97b3-913d7794f7ca",
+          "Name": "Note",
           "ColumnNumber": 0,
           "ColumnSpan": 1,
-          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
           "ParentGuid": "ffd90a25-e991-4b21-a0b2-c69687cd1633",
-          "PropertyGuid": "15efcdb8-7852-46c0-b430-7c600daa0106",
+          "PropertyGuid": "bd3a8d44-a9e5-400a-ad36-7b2a2db52d0e",
           "RowNumber": 1,
           "RowSpan": 1,
           "Settings": []
@@ -70,6 +70,14 @@
       "IsQuickSearchAllowed": true,
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
+    },
+    {
+      "$type": "Sungero.Metadata.StringPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "bd3a8d44-a9e5-400a-ad36-7b2a2db52d0e",
+      "Name": "Note",
+      "Code": "Note",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+      "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     },
     {
       "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
