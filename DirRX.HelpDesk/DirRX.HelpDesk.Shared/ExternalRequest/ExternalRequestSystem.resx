@@ -117,13 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Property_Name" xml:space="preserve">
-    <value>Name</value>
+  <data name="DisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Responsible" xml:space="preserve">
-    <value>Responsible</value>
+  <data name="AccusativeDisplayName" xml:space="preserve">
+    <value>External request</value>
   </data>
-  <data name="Property_Note">
-    <value>Note</value>
+  <data name="CollectionDisplayName" xml:space="preserve">
+    <value>External requests</value>
+  </data>
+  <data name="Property_Author" xml:space="preserve">
+    <value>Author</value>
+  </data>
+  <data name="Property_Result" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="Resource_248f452ffa01442e8cf3e6f373fd3143" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_248f452ffa01442e8cf3e6f373fd3143_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_f4a6fb6960d74609a4392d0720f6eb4f" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_9dd5c1135863458b89aec4a83a28325d" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_33f19cb823be47c28798aee2856e3b45" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_33f19cb823be47c28798aee2856e3b45_EmptyText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Resource_bd7a45de565d4099a0c5a812e764aad7" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Control_bd7a45de565d4099a0c5a812e764aad7_EmptyText" xml:space="preserve">
+    <value />
   </data>
 </root>
